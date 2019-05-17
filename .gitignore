@@ -2,7 +2,6 @@
 
 .idea/
 .sass-cache/
-dist/
 node_modules/
 coverage/
 *.log
